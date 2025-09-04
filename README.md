@@ -1,4 +1,4 @@
-# Perfil Profissional - Fernanda Gabriele 
+#  ̊Perfil Profissional - Fernanda Gabriele 
 ## 👤 Dados pessoais: 
 - Nome: Fernanda Gabriele
 - Idade: 23
@@ -14,11 +14,17 @@ Construir uma boa carreira na área de TI como desenvolvedora **Front-End** ou E
 - Português: Nativo
 - Inglês: Intermediário (A2)
 - Espanhol: Básico (A2)
-
 ---
 ## 🎓 Formação Acadêmica:
 - Técnico em Desenvolvimento de sistemas.
 - Estudante do Ensino Médio
+---
+## 📜 Certificações:
+- Certificado Implantação de Serviços em Nuvem - Microsoft AZ-900
+- Certificado Fundamentos do Python
+- Certificado Fluência - fundamentos da inteligência artificial
+- CERTIFICADO EICI - 2024 - APRESENTAÇÃO DE TRABALHO
+- Certificado feira de Ciência e Tecnologia do Oeste Paulista
 ----
 ## 📚 Cursos Complementares:
 - Técnico em Desenvolvimento de Sistemas
@@ -28,6 +34,7 @@ Construir uma boa carreira na área de TI como desenvolvedora **Front-End** ou E
 - Programação em Python
 - Curso de idiomas Senac
 - Linguagem de Marcação
+- Excel Básico
 ----
 ## 💻 Competências Técnicas:
 - **Front-end:** JavaScript, HTML
@@ -42,7 +49,7 @@ Construir uma boa carreira na área de TI como desenvolvedora **Front-End** ou E
 - Proatividade e comprometimento
 - Boa comunicação
 - Facilidade para trabalhar em equipe
-- Boa liderança
+- Boa liderança                                       
 - Organização
 ---
 ## ⚠️ Pontos a melhorar:
